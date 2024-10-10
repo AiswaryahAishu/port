@@ -14,7 +14,7 @@ const App = () => {
      <BrowserRouter>
     <Routes>
       <Route path="/" exact element={<Home/> } />
-      <Route path="/portfolio-new" exact element={<Home/> } />
+      <Route path="/port" exact element={<Home/> } />
       <Route path="/about" element={<About/>} />
       <Route path="/skills" element={<Skills/> } />
       <Route path="/services" element={<Services/> } />
