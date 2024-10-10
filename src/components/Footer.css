@@ -1,0 +1,20 @@
+/* Footer.css */
+.footer {
+    background-color:#F0F8FF; /* Dark background color */
+    color: #181616; /* White text color */
+    padding: 20px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  .footer a {
+    color: #0f0e0e;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  

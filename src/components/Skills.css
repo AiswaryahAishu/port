@@ -1,0 +1,17 @@
+.skills-flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+  }
+  
+  .skill-button {
+    width: 250px;
+    height: 125px;
+    margin: 10px;
+  }
+  .contents{
+   margin-top: 50px;
+   text-align: center;
+    
+  }

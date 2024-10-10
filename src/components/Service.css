@@ -1,0 +1,60 @@
+.container-service {
+    display: flex;
+    justify-content: space-between; /* Space between boxes */
+    align-items: flex-start;        /* Aligns items at the top */
+    padding: 20px;
+  }
+  
+  .box {
+    flex: 1;                        /* Ensures equal size */
+    padding: 20px;
+    background-color: #FFFAF0;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0px 4px 8px #ADD8E6;  /* Optional: box shadow for better appearance */
+  }
+  .box:hover{
+    cursor: pointer;
+  transform: scale(1.05);           /* Slightly scale the box on hover */
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+
+  }
+  
+  h2, h3 {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+  }
+
+  @media (max-width: 768px) {
+    .container-service {
+      flex-direction: column; /* Stack the boxes vertically */
+      align-items: center;
+    }
+  
+    .box {
+      width: 100%;            /* Full width for each box */
+      max-width: 600px;        /* Set a max width to avoid overly wide boxes */
+    }
+  }
+
+  @media (max-width: 576px) {
+    .box {
+      padding: 15px;
+      margin: 5px;
+    }
+  
+    h2, h3 {
+      font-size: 18px;
+    }
+  
+    p {
+      font-size: 14px;
+    }
+  }
+  
