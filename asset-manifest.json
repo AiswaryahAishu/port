@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.f4395191.css",
+    "main.js": "/port/static/js/main.4d315621.js",
+    "static/js/453.64512fd7.chunk.js": "/port/static/js/453.64512fd7.chunk.js",
+    "static/media/aiswarya mc (1).pdf": "/port/static/media/aiswarya mc (1).080db9e72fe1d4b7171a.pdf",
+    "static/media/science techer cv.pdf": "/port/static/media/science techer cv.ac5666d5f0112a56c3be.pdf",
+    "static/media/home-img.jpg": "/port/static/media/home-img.4fe4ae6bc79b375ed134.jpg",
+    "static/media/profile-img.jpg": "/port/static/media/profile-img.8724d09c6075ff956e46.jpg",
+    "index.html": "/port/index.html",
+    "main.f4395191.css.map": "/port/static/css/main.f4395191.css.map",
+    "main.4d315621.js.map": "/port/static/js/main.4d315621.js.map",
+    "453.64512fd7.chunk.js.map": "/port/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4395191.css",
+    "static/js/main.4d315621.js"
+  ]
+}
